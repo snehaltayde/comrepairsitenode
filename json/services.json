@@ -1,0 +1,17 @@
+[
+{
+  "productname": "Camera",
+  "description": "Camera is in Good Condition",
+  "price": "3000"
+},
+{
+  "productname": "Phone",
+  "description": "Phone is in Good Condition",
+  "price": "2000"
+},
+{
+  "productname": "Drone",
+  "description": "Drone is in Good Condition",
+  "price": "1000"
+}
+]

@@ -1,0 +1,10 @@
+extends layout
+
+block content
+      h1 #{title}
+      each service, i in services
+        div.well
+          h3 #{services[i].productname}
+          p #{services[i].description}
+          p
+            |#{services[i].price}
